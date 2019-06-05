@@ -55,6 +55,7 @@ TARGET_PREBUILT_KERNEL := device/xiaomi/perseus/Image.gz-dtb
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 NEED_KERNEL_MODULE_SYSTEM := true
 TARGET_KERNEL_ARCH := arm64
+BOARD_INCLUDE_RECOVERY_DTBO = true
 #TARGET_KERNEL_CONFIG := perseus_defconfig
 #TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 #TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm845
