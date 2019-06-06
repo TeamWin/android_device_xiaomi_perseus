@@ -47,7 +47,7 @@ fastboot boot out/target/product/perseus/recovery.img
 
 ## Other Sources
 
-Kernel Sources: 
+Kernel Sources: https://github.com/Demon000/kernel_xiaomi_sdm845
 
 ## Thanks
 
